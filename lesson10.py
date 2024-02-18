@@ -1,8 +1,3 @@
-"""
-Модуль для работы с валютами и ценами.
-
-Описание модуля и его функциональности.
-"""
 import json
 import time
 from dataclasses import dataclass
